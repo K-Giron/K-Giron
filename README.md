@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Java, python and Goland programmation
+- 🔭 I’m currently working on Java, python and Goland programmation files.
+- 🌱 I’m currently learning cibersecurity
+- ⚡ Fun fact: Sports and videogames
 
 
 <!--
