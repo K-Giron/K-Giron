@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on Java, python and Goland programmation
+
+
 <!--
 **K-Giron/K-Giron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
