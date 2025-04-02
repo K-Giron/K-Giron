@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on Java, python and Goland programmation files.
-- 🌱 I’m currently learning cibersecurity
-- ⚡ Fun fact: Sports and videogames
+- 🔭 I’m currently working on **Networks, Databases (Oracle), and Docker**.  
+- 💻 Previously, I worked on **backend development with NestJS, TypeScript, and Docker**, as well as **frontend development with HTML, CSS and Angular**.
+- ☁️ I have experience using **AWS and Azure**, including **buckets and virtual machines (VMs)** for cloud development.    
+- 🛠️ I also have experience with **Java, Python, JavaScript, and Golang**.  
+- 🌱 I’m currently learning **Cybersecurity**.  
+- 🎮 In my free time, I enjoy **sports and video games**.  
 
 
 <!--
